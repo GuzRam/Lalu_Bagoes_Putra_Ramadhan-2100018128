@@ -151,3 +151,6 @@ fstream myBarang;
 }
 
 }
+
+
+//ini adalah komentar
